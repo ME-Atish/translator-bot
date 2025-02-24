@@ -32,11 +32,11 @@ Before running the bot, ensure you have the following installed:
 
 ## Setup
 
-1. **Clone the repository**:
+1.**Clone the repository**:
    ```bash
    git clone https://github.com/your-username/telegram-translation-bot.git
    cd telegram-translation-bot
-
+```
 2.Install dependencies:
 ``` bash
   pnpm install
@@ -59,7 +59,7 @@ or
 pnpm run start
 ```
 
-##Technologies Used
+## Technologies Used
 - **Node.js**: Runtime environment for the bot.
 
 - **TypeScript**: Adds type safety and improves developer experience.
@@ -68,20 +68,20 @@ pnpm run start
 
 - **Translation API**: A third-party API for translating text (e.g., Google Translate, Yandex).
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to improve the bot, follow these steps:
 
-Fork the repository.
+- Fork the repository.
 
-Create a new branch (git checkout -b feature/your-feature).
+- Create a new branch (git checkout -b feature/your-feature).
 
-Commit your changes (git commit -m 'Add some feature').
+- Commit your changes (git commit -m 'Add some feature').
 
-Push to the branch (git push origin feature/your-feature).
+- Push to the branch (git push origin feature/your-feature).
 
-Open a pull request.
+- Open a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ##Support
