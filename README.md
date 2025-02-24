@@ -34,7 +34,7 @@ Before running the bot, ensure you have the following installed:
 
 1.**Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/telegram-translation-bot.git](https://github.com/ME-Atish/translator-bot)
+   git clone https://github.com/ME-Atish/translator-bot
    cd telegram-translation-bot
 ```
 2.Install dependencies:
