@@ -1,3 +1,2 @@
-import * as api from "./controller/api.controller";
-
-api
+import * as bot from "./controller/bot.controller"
+bot
